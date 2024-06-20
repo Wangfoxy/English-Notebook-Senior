@@ -83,7 +83,7 @@
 4. `She will say that` she will be free tomorrow.
 5. `She will say that` she had been busy before.
 
-**注意：**当she处于过去式的时候，不可能跳到现在，和现在没有关联，使用未来式时都使用would而不是使用will
+**注意：** 当she处于过去式的时候，不可能跳到现在，和现在没有关联，使用未来式时都使用would而不是使用will
 
 1. `He said that` he did it. / he was doing it.   过去式 / 过去进行式
 
