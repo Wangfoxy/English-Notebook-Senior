@@ -31,7 +31,7 @@
   ```
 
 ```
-问题：go to school和to to the school有什么区别？ 
+问题：go to school和go to the school有什么区别？ 
 ```
 
 ```
